@@ -1,7 +1,6 @@
 import requests # 调用requests库
 from bs4 import BeautifulSoup # 调用BeautifulSoup库
 
-
 def download_all_img_address(adderss):
 
     all_img_address = []
